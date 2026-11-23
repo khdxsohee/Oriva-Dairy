@@ -8,9 +8,9 @@
 
 **Every cow. Every litre. Every rupee - in one smart place.**
 
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-1E5B40?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khdcoder.github.io/Oriva-Dairy/)
-[![Report Bug](https://img.shields.io/badge/REPORT-BUG-E3A63C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/khdcoder/Oriva-Dairy/issues)
-[![Request Feature](https://img.shields.io/badge/REQUEST-FEATURE-0F3325?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khdcoder/Oriva-Dairy/issues)
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-1E5B40?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khdxsohee.github.io/Oriva-Dairy/)
+[![Report Bug](https://img.shields.io/badge/REPORT-BUG-E3A63C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/khdxsohee/Oriva-Dairy/issues)
+[![Request Feature](https://img.shields.io/badge/REQUEST-FEATURE-0F3325?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khdxsohee/Oriva-Dairy/issues)
 
 ---
 
@@ -373,7 +373,7 @@ Oriva-Dairy/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/khdcoder/Oriva-Dairy.git
+git clone https://github.com/khdxsohee/Oriva-Dairy.git
 
 # 2. Move into the project folder
 cd Oriva-Dairy
@@ -461,9 +461,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## Author
 
-**khdcoder**
+**khdxsohee**
 
-[![GitHub](https://img.shields.io/badge/GitHub-khdcoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khdcoder)
+[![GitHub](https://img.shields.io/badge/GitHub-khdxsohee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khdxsohee)
 [![Email](https://img.shields.io/badge/Email-Contact-1E5B40?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 
@@ -481,15 +481,15 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=khdcoder/Oriva-Dairy&type=Date)](https://star-history.com/#khdcoder/Oriva-Dairy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=khdxsohee/Oriva-Dairy&type=Date)](https://star-history.com/#khdxsohee/Oriva-Dairy&Date)
 
 ---
-![GitHub stars](https://img.shields.io/github/stars/khdcoder/Oriva-Dairy?style=for-the-badge&logo=github&color=gold)
-![GitHub forks](https://img.shields.io/github/forks/khdcoder/Oriva-Dairy?style=for-the-badge&logo=github&color=teal)
-![GitHub watchers](https://img.shields.io/github/watchers/khdcoder/Oriva-Dairy?style=for-the-badge&logo=github&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/khdcoder/Oriva-Dairy?style=for-the-badge&logo=git&color=orange)
-![GitHub issues](https://img.shields.io/github/issues/khdcoder/Oriva-Dairy?style=for-the-badge&logo=github&color=red)
-![GitHub license](https://img.shields.io/github/license/khdcoder/Oriva-Dairy?style=for-the-badge&color=0F3325)
+![GitHub stars](https://img.shields.io/github/stars/khdxsohee/Oriva-Dairy?style=for-the-badge&logo=github&color=gold)
+![GitHub forks](https://img.shields.io/github/forks/khdxsohee/Oriva-Dairy?style=for-the-badge&logo=github&color=teal)
+![GitHub watchers](https://img.shields.io/github/watchers/khdxsohee/Oriva-Dairy?style=for-the-badge&logo=github&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/khdxsohee/Oriva-Dairy?style=for-the-badge&logo=git&color=orange)
+![GitHub issues](https://img.shields.io/github/issues/khdxsohee/Oriva-Dairy?style=for-the-badge&logo=github&color=red)
+![GitHub license](https://img.shields.io/github/license/khdxsohee/Oriva-Dairy?style=for-the-badge&color=0F3325)
 <div align="center">
   <strong>Oriva Dairy</strong> — Grown with care for our farmers.
 </div>
